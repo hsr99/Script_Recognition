@@ -1,1 +1,3 @@
-# Script_Recognition
+# Script Recognition System using Convolutional Neural Networks (CNNs) and Histogram of Oriented Gradient (HOG) features with TensorFlow
+Our project uses the IAM Dataset containing more than 100,000 images of unconstrained handwritten text is used for training, validating, and testing the system to achieve better efficiency. 
+For our model, we have curated 2 subsets of the IAM dataset, comprising approximately 8,600 images of individual handwritten words due to hardware limitations. The subset includes contributions from around 40 distinct authors, each providing unique handwriting samples. These images are annotated with corresponding labels denoting the word depicted in each image.
